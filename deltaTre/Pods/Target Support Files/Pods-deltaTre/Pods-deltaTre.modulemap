@@ -1,0 +1,6 @@
+framework module Pods_deltaTre {
+  umbrella header "Pods-deltaTre-umbrella.h"
+
+  export *
+  module * { export * }
+}
